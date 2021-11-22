@@ -1,7 +1,7 @@
 ## Aptitudes
-**Diseño gráfico y web**
- - *Adobe (Photoshop, Illustrator...) frontend (HTML, CSS...)*
- **Diseño editorial**
- - *Indesign*
-**Ilustración**
+**Diseño gráfico y web** <br>
+ - *Adobe (Photoshop, Illustrator...) frontend (HTML, CSS...)* <br>
+ **Diseño editorial** <br>
+ - *Indesign* <br>
+**Ilustración** <br>
 - *Photoshop, Clip Studio, Procreate, tradicional*
