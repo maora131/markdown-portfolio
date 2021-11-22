@@ -1,3 +1,3 @@
-# Bienvenidos a mi Web
+# Bienvenidos a mi web
 ## Mi nombre es Maora~
 
