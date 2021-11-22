@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:sparkles: Mis cosas favoritas :sparkles:
+1. Dibujar
+2. Leer mangas
+3. Jugar videojuegos
