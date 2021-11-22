@@ -1,4 +1,4 @@
-**Mis cosas favoritas**
-1. _Dibujar_
+**Un poco sobre mí**
+1. _Me gusta dibujar_
 2. _Leer mangas_
-3. _Jugar videojuegos_
+3. _Jugar videojuegos indie y de mundo abierto_
