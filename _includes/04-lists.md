@@ -1,4 +1,4 @@
-:sparkles: Mis cosas favoritas :sparkles:
-1. Dibujar
-2. Leer mangas
-3. Jugar videojuegos
+:sparkles: **Mis cosas favoritas** :sparkles:
+1. _Dibujar_
+2. _Leer mangas_
+3. _Jugar videojuegos_
